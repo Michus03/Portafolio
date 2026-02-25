@@ -146,6 +146,7 @@ color:#ff4d4d;
 
 .card{
     width:100%;
+    justify-content: center;
 }
 
 .card{
@@ -496,4 +497,5 @@ html{
     margin-right: 10px;
 
 }
+
 
